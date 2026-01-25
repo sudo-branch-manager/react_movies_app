@@ -4,6 +4,6 @@ A simple website for browsing and discovering movies!
 ![banner_image](public/banner.jpg)
 
 ## Technologies Used
-* ReactJS
+* React.js
 * Appwrite
 * TailwindCSS
